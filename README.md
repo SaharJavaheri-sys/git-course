@@ -10,3 +10,6 @@ This is a playground for practising with git and GitHub from RStudio.
 ## Authors
 - Sahar
 - ... 
+
+## Note
+Add a note here.
